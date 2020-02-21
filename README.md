@@ -7,6 +7,4 @@ Engagement activities in Forrest/Otways: see https://www.localsdgs.org/workshops
 
 Identified literature on Goulburn Murray: see GM literature.txt
 
-The visualisation codes used in assessing method suitability: 
-
-Codes used in the calculation and visualition of method suitability: 
+The visualisation codes used in assessing method suitability (Figure 4) and the codes used in the calculation and visualition of method suitability in the case studies (Figure 6): method_criteria_mapping.ipynb
