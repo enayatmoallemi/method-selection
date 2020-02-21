@@ -1,2 +1,12 @@
 # method-selection
-This repository provides the data and code used in: Enayat A. Moallemi, Brett A. Bryan, Fjalar de Haan, Michalis Hadjikakou, Sina Khatami, Shirin Malekpour, Alex Smajgl, Alexy Voinov, Reihaneh Bandari, Prahlad Lamichhane, Kelly Miller, Emily Nicholson, Wikke Novalia, Euan G. Ritchie, Angela M. Rojas, Abdullah Shaikh, Katrina Szetey (2020) A blueprint for co-developing sustainability pathways in the Anthropocene
+This repository provides the data and code used in: Enayat A. Moallemi, Brett A. Bryan, Fjalar de Haan, Michalis Hadjikakou, Sina Khatami, Shirin Malekpour, Alex Smajgl, Alexy Voinov, Reihaneh Bandari, Prahlad Lamichhane, Kelly Miller, Emily Nicholson, Wikke Novalia, Euan G. Ritchie, Angela M. Rojas, Abdullah Shaikh, Katrina Szetey (2020) 'A blueprint for co-developing sustainability pathways in the Anthropocene'
+
+Data obtained from practitioners in assessing method suitability: see Supplementary Information 2.xlsx
+
+Engagement activities in Forrest/Otways: see https://www.localsdgs.org/workshops-1
+
+Identified literature on Goulburn Murray: see GM literature.txt
+
+The visualisation codes used in assessing method suitability: 
+
+Codes used in the calculation and visualition of method suitability: 
