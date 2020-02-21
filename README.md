@@ -1,4 +1,4 @@
-# method-selection
+# Method-Selection
 This repository provides the data and code used in: Enayat A. Moallemi, Brett A. Bryan, Fjalar de Haan, Michalis Hadjikakou, Sina Khatami, Shirin Malekpour, Alex Smajgl, Alexy Voinov, Reihaneh Bandari, Prahlad Lamichhane, Kelly Miller, Emily Nicholson, Wikke Novalia, Euan G. Ritchie, Angela M. Rojas, Abdullah Shaikh, Katrina Szetey (2020) 'A blueprint for co-developing sustainability pathways in the Anthropocene'
 
 Data obtained from practitioners in assessing method suitability: see Supplementary Information 2.xlsx
