@@ -1,5 +1,5 @@
 # Evaluating participatory modelling methods for co-creating pathways to sustainability
-This repository provides the data and code used in: Enayat A. Moallemi, Brett A. Bryan, Fjalar de Haan, Michalis Hadjikakou, Sina Khatami, Shirin Malekpour, Alex Smajgl, Alexy Voinov, Reihaneh Bandari, Prahlad Lamichhane, Kelly Miller, Emily Nicholson, Wikke Novalia, Euan G. Ritchie, Angela M. Rojas, Abdullah Shaikh, Katrina Szetey (2020) 'Evaluating participatory modelling methods for co-creating pathways to sustainability', submitted for publication in Earth's Future.
+This repository provides the data and code used in: Enayat A. Moallemi, Brett A. Bryan, Fjalar de Haan, Michalis Hadjikakou, Sina Khatami, Shirin Malekpour, Alex Smajgl, Alexy Voinov, Reihaneh Bandari, Prahlad Lamichhane, Kelly Miller, Emily Nicholson, Wikke Novalia, Euan G. Ritchie, Angela M. Rojas, Abdullah Shaikh, Katrina Szetey (2020) 'Evaluating participatory modelling methods for co-creating pathways to sustainability', submitted for publication in Earth's Future. Access the preprint: https://eartharxiv.org/repository/view/1721/
 
 Data obtained from practitioners in assessing method suitability: see Supplementary Information 2.xlsx
 
